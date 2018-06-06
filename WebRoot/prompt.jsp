@@ -43,7 +43,7 @@
   <tr>
     <td>&nbsp;</td>
     <td align="center" valign="top"><html:submit styleClass="btn_grey" value="开始考试"/>	
-	<html:button styleClass="btn_grey" value="返回" onclick="history.back(-1)"/></td>
+	<html:button property="button" styleClass="btn_grey" value="返回" onclick="history.back(-1)"/></td>
     <td>&nbsp;</td>
   </tr>
 </table> 
